@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /private/
+Sitemap: https://mavers3.github.io/sitemap.xml
